@@ -8,8 +8,11 @@ Intro
 
 ## Purpose
 
+Purpose desc 
+
 ## Deployment
 
+This is a simple web file system
 ## Contribute
 
 Sample website with plenty of files for demos
