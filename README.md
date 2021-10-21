@@ -16,3 +16,6 @@ This is a simple web file system
 ## Contribute
 
 Sample website with plenty of files for demos
+
+## Copyright
+2014 Git.Training
