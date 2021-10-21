@@ -15,7 +15,7 @@ Purpose desc
 This is a simple web file system
 ## Contribute
 
-Sample website with plenty of files for demos
+Forking repository
 
 ## Copyright
 2014 Git.Training
