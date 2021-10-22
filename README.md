@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple repository is for showing how Git and GitHub work. Adding a line for rebasing exercise 
+This is a simple repository is for showing how Git and GitHub work. Adding a line for rebasing exercise, then more changes from myfeature branch
 
 ## Introduction
 
