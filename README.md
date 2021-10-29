@@ -18,4 +18,4 @@ This is a simple web file system
 Forking repository
 
 ## Copyright
-2014 Git.Training
+2014 Git.Training All rights reserved 
